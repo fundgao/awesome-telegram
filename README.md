@@ -3,9 +3,11 @@
 ## [教程](https://core.telegram.org/bots/webapps)
 * [Telegram bot 和 mini apps 开发简易教程](https://github.com/brickspert/blog/issues/65)
 
-* 访问 https://t.me/BotFather
-* 首先创建一个bot，‘/newbot’ 
-  - 你会得到一个 access token：6366251144:AAHt9c_YpcKnSzjYNrOZa7Z5-15978Sc
+* Telegram 搜索 `BotFather` 蓝标
+* 输入 `/newbot` 创建第一个 Bot
+* 输入 项目名称
+* 输入 Bot Name，以 `bot` 结尾
+* 得到一个 access token
   
 * 接着创建一个 Mini App，‘/newapp’
   - 一个bot可以对应多个app

@@ -1,4 +1,4 @@
-# Telegram 小程序 & 机器人
+# Telegram 小程序 & 机器人 Games
 
 ## [教程](https://core.telegram.org/bots/webapps)
 * [Telegram bot 和 mini apps 开发简易教程](https://github.com/brickspert/blog/issues/65)
@@ -15,3 +15,6 @@
   - 一个bot可以对应多个app
 * 唯一链接 
   - 一个bot可以对应多个app
+
+# Telegram Games
+* 输入 `/newgame ` 创建第一个 Games

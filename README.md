@@ -3,6 +3,8 @@
 ## [教程](https://core.telegram.org/bots/webapps)
 * [Telegram bot 和 mini apps 开发简易教程](https://github.com/brickspert/blog/issues/65)
 
+<img width="600" src="assets/botfather.png"/>
+
 # Telegram Bot
 * Telegram 搜索 `BotFather` 蓝标
 * 输入 `/newbot` 创建第一个 Bot

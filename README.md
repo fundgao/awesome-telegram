@@ -20,3 +20,9 @@
 
 # Telegram Games
 * 输入 `/newgame ` 创建第一个 Games
+
+
+## DEV [开发教程](https://github.com/yagop/node-telegram-bot-api)
+
+* `npm i node-telegram-bot-api`
+* `npm install --save-dev @types/node-telegram-bot-api`

@@ -26,3 +26,4 @@
 
 * `npm i node-telegram-bot-api`
 * `npm install --save-dev @types/node-telegram-bot-api`
+  
